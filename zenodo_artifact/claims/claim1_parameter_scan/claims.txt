@@ -1,0 +1,3 @@
+This claim corresponds to the parameter scanner functionality described in the paper. Executing this claim will run the parameter space exploration for the CompareStringW function and generate a summary report. The output should demonstrate the variety of flags and locales tested, confirming the claimed in Section 4.2 (Parameters Scan).
+
+Manual interaction is required: please select [Option 3] from the menu and press [Enter] to proceed with the execution.

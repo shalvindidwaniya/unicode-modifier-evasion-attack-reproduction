@@ -1,0 +1,3 @@
+This claim corresponds to the program scanner functionality in Section 4.2 (Program Scan). Executing the script will run the tool on System32 and SysWOW64 to discover at risk programs of the `CompareStringW` function. The output is a program name list.
+
+Manual interaction is required: please select [Option 51] from the menu and press [Enter] to proceed with the execution.

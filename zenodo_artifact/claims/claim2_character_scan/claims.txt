@@ -1,0 +1,3 @@
+This claim validates the character scanner functionality. Running this experiment will identify a set of characters that the CompareStringW function treats as equivalent under a specified locale and normalization mode. The output should match the content of the Section 4.2 (Characters Scan) from the paper.
+
+Manual interaction is required: please select [Option 4] from the menu and press [Enter] to proceed with the execution.

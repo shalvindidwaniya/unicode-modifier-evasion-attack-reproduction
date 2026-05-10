@@ -1,0 +1,1 @@
+Press "Convert", then the modifier letters in the inputbox will be converted to Latin characters.

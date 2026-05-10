@@ -1,0 +1,10 @@
+This claim provides the UMC (Unicode Modifier Converter) tool for evaluation. The core functionality of this tool, as detailed in Section 7.3 of the paper, is to convert modifier letters in a input string into their equivalent base Latin characters.
+
+To verify the tool's operability:
+
+Execute the tool to launch the interactive interface.
+In the input text box, enter a string containing modifier letters (e.g., "ᵗᵉˢᵗ").
+
+Click the "Convert" button.
+
+The tool will process the input and display the converted result (e.g., "test") in the output area, demonstrating its fundamental transformation capability as claimed.
